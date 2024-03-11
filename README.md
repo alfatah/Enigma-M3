@@ -1,6 +1,7 @@
 Emulator Enigma : https://www.101computing.net/enigma-machine-emulator/
 
 /////////////////////////////////////////////////////////////////////////
+
 Pemecahan Kode selama Perang Dunia II
 Mesin Enigma adalah serangkaian mesin sandi rotor elektro-mekanis. Mesin pertama ditemukan pada akhir Perang Dunia I oleh insinyur Jerman Arthur Scherbius dan terutama digunakan untuk melindungi komunikasi komersial, diplomatik, dan militer. Mesin Enigma menjadi semakin kompleks dan banyak digunakan oleh tentara Jerman selama Perang Dunia II untuk mengenkripsi sinyal radio.
 
@@ -47,6 +48,5 @@ Reflektor adalah jenis rotor lain di dalam mesin. Setelah surat melewati ketiga 
 
 Versi reflektor yang berbeda digunakan pada versi mesin Enigma yang berbeda. Setiap reflektor akan menerapkan sandi permutasi yang berbeda. Mesin Enigma M3 dilengkapi dengan reflektor UKW-B atau UKW-C. Anda dapat menerapkan kedua reflektor ini di jendela pengaturan rotor emulator kami (lihat gambar di atas).
 
-Diagram di bawah menunjukkan perjalanannya
 /////////////////////////////////////////////////////////////////////////
 
